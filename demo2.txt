@@ -1,2 +1,6 @@
 New master update
+<<<<<<< HEAD
 First change demo tres
+=======
+First change demo cuatro
+>>>>>>> cd92f6d (tercer commit)
